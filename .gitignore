@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 #10. követelmény
 
+=======
+>>>>>>> 1a1efdec024f4ec5960f038d39b761fdea38960c
 # Compiled class file
 *.class
 
@@ -15,6 +18,10 @@
 # Package Files #
 *.jar
 *.war
+<<<<<<< HEAD
+=======
+*.nar
+>>>>>>> 1a1efdec024f4ec5960f038d39b761fdea38960c
 *.ear
 *.zip
 *.tar.gz
@@ -22,6 +29,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 
 .classpath
@@ -33,3 +41,5 @@ target/
 .idea
 localJdbcDB/
 warehouse.iml
+=======
+>>>>>>> 1a1efdec024f4ec5960f038d39b761fdea38960c
