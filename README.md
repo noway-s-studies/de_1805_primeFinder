@@ -1,0 +1,2 @@
+# primeFinder
+Prímszám kereső alkalmazás
