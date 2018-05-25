@@ -1,14 +1,24 @@
 public class MainApp {
-
+    /**
+     * Prímtesztelő osztály példánya.
+     */
     private static PrimeNumber prime = new PrimeNumber();
-    public static final double STARTNO = 999999998;
-    public static double db;
+    /**
+     * Kezdőérték.
+     */
+    private static final double STARTNO = 40;
 
     public static void main(String[] args) {
         start();
     }
 
+    /**
+     * Indítási metódus.
+     */
     private static void start() {
+        /**
+         * Léptető ciklus.
+         */
         for (prime.setNumber(STARTNO);
              prime.getNumber()<=prime.getMaxNumber();
              prime.upNumber()){
